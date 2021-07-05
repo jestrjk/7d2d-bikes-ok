@@ -1,0 +1,7 @@
+<Config>
+
+<setattribute xpath="/items/item[@name='vehicleBicyclePlaceable']/property[@name='EconomicValue']" name="value">
+  5
+</setattribute>
+
+</Config>
